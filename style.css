@@ -74,7 +74,7 @@ body::before {
 }
 
 .courier-font {
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     font-size: 44px;
     margin-bottom: 10px;
     font-weight: bold;
@@ -127,7 +127,7 @@ body::before {
 .header-left h1 {
     margin: 0;
     font-size: 24px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 /* Right side navigation links */
@@ -136,7 +136,7 @@ body::before {
     text-decoration: none;
     margin-left: 20px;
     font-size: 16px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     transition: color 0.3s ease;
 }
 
@@ -195,7 +195,7 @@ body::before {
 /* About Heading */
 .about-heading {
     font-size: 32px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     color: #47321f;
     margin-bottom: 5px;
     text-align: left;
@@ -206,7 +206,7 @@ body::before {
 /* Name and Profession */
 .name-profession {
     font-size: 18px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     color: #a2712f;
     text-align: left;
     margin-bottom: 5px;
@@ -216,7 +216,7 @@ body::before {
 /* About Paragraphs */
 .about-paragraph {
     font-size: 18px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     color: #555;
     line-height: 1.6;
     margin-bottom: 10px;
@@ -234,7 +234,7 @@ body::before {
 
 .experience-heading {
     font-size: 36px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     color: #47321f;
     margin-bottom: 30px;
 }
@@ -304,7 +304,7 @@ body::before {
 .experience-title {
     font-size: 24px;
     color: #a2712f;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     margin-bottom: 10px;
 }
 
@@ -319,7 +319,7 @@ body::before {
     color: #6e4f27;
     margin-bottom: 5px;
 
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 /* Experience Description */
@@ -327,7 +327,7 @@ body::before {
     font-size: 14px;
     color: #555;
     line-height: 1.5;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 /* Responsive Design for Smaller Screens */
@@ -375,7 +375,7 @@ body::before {
     /* text-transform: uppercase; Optional: Makes the text uppercase */
     letter-spacing: 1.5px;
     /* Optional: Adds spacing for a sleek look */
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     color: #47321f;
 }
 
@@ -401,7 +401,7 @@ body::before {
     display: grid;
     align-items: center;
     transition: all 0.3s ease-in-out;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     /* Smooth transition for hover effect */
 }
 
@@ -566,7 +566,7 @@ body::before {
     gap: 10px;
     color: #47321f;
     justify-content: center;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 .download-btn {
@@ -593,7 +593,7 @@ body::before {
     background-color: #f9f9f9;
     /* Change as needed */
     color: #47321f;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -682,7 +682,7 @@ body::before {
     background-color: #f9f9f9;
     /* Change as needed */
     color: #47321f;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
